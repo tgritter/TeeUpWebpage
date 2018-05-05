@@ -138,6 +138,8 @@ ul li {
 }
 #header .logo {
 	float: left;
+	width: 60;
+	height: 60;
 }
 #header.fixed {
 	background-color: #201f22;
