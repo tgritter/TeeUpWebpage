@@ -315,7 +315,8 @@ ul li {
 	Banner
 -------------------------------------------------------------------------------*/
 .banner {
-	background: linear-gradient(to right, #56ab2f , #a8e063);
+	background-color: #3b3be8;
+	background-image: linear-gradient(red, orange);
 	min-height: 750px;
 }
 .banner-text {
