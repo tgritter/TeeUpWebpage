@@ -303,7 +303,7 @@ input:-webkit-autofill:focus {
     width: 100%;
     z-index: 9999;
     padding: 20px 140px 15px 0;
-    background: #ffffff;
+    background: rgb(255, 255, 255);
     -webkit-transition: 0.3s;
     -o-transition: 0.3s;
     transition: 0.3s;
