@@ -1946,15 +1946,15 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .p1-gradient-bg, .primary-btn, .banner-area, .cat-area .hb-facebook-inv:hover, .cat-area .hb-facebook-inv:hover::after, .cat-area .hb-facebook-inv:hover::before, .single-service:hover, .video-area .overlay-bg, .single-price:hover .bottom-sec, .single-price:hover .end-sec, .call-to-action-area, .footer-area .primary-btn, .footer-area .primary-btn:hover, .footer-social a:hover, .single-footer-widget .bb-btn, .generic-banner {
-  background-image: -moz-linear-gradient(0deg, #008000 0%, #228B22 100%);
-  background-image: -webkit-linear-gradient(0deg, #008000 0%, #228B22 100%);
-  background-image: -ms-linear-gradient(0deg, #008000 0%, #228B22 100%);
+  background-image: -moz-linear-gradient(0deg, #008000 0%, #008000 100%);
+  background-image: -webkit-linear-gradient(0deg, #008000 0%, #008000 100%);
+  background-image: -ms-linear-gradient(0deg,#008000 0%, #008000 100%);
 }
 
 .p1-gradient-color, .counter-left h2 {
-  background: -moz-linear-gradient(0deg, #008000 0%, #228B22 100%);
-  background: -webkit-linear-gradient(0deg, #008000 0%, #228B22 100%);
-  background: -ms-linear-gradient(0deg, #008000 0%, #228B22 100%);
+  background: -moz-linear-gradient(0deg, #008000 0%, #008000 100%);
+  background: -webkit-linear-gradient(0deg, #008000 0%, #008000 100%);
+  background: -ms-linear-gradient(0deg, #008000 0%, #008000 100%);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
@@ -2097,7 +2097,7 @@ h1, h2, h3, h4, h5, h6 {
 
 @media (max-width: 991px) {
   .banner-area .fullscreen {
-    height: 1500px !important;
+    height: 700px !important;
   }
 }
 
