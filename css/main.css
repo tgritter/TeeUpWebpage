@@ -344,9 +344,8 @@ ul li {
 	margin-bottom: 7%;
 }
 .banner-img {
-	bottom: -186px;
-	height: 50%;
-	width: 100px; 
+	bottom: -1px;
+	width: 100px;
 	position: relative;
 }
 .banner-btn a {
