@@ -117,7 +117,6 @@ ul li {
 }
 .img-responsive {
 	margin:auto;
-	height: 50%;
 }
 /* ------------------------------------------------------------------------------
 	Header
@@ -346,6 +345,8 @@ ul li {
 }
 .banner-img {
 	bottom: -186px;
+	height: 50%;
+	width: 100px; 
 	position: relative;
 }
 .banner-btn a {
