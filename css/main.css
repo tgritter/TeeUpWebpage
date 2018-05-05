@@ -1952,9 +1952,9 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .p1-gradient-color, .counter-left h2 {
-  background: -moz-linear-gradient(0deg, #3ea7ff 0%, #42d1ff 100%);
-  background: -webkit-linear-gradient(0deg, #3ea7ff 0%, #42d1ff 100%);
-  background: -ms-linear-gradient(0deg, #3ea7ff 0%, #42d1ff 100%);
+  background: -moz-linear-gradient(0deg, #008000 0%, #228B22 100%);
+  background: -webkit-linear-gradient(0deg, #008000 0%, #228B22 100%);
+  background: -ms-linear-gradient(0deg, #008000 0%, #228B22 100%);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
