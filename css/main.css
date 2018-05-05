@@ -4,7 +4,7 @@
 /* Mobile Layout: 320px */
 /* Wide Mobile Layout: 480px */
 /* =================================== */
-/*  Basic Style 
+/*  Basic Style
 /* =================================== */
 ::-moz-selection {
   /* Code for Firefox */
@@ -736,7 +736,8 @@ td, th {
 }
 
 .container.fullwidth {
-  width: 100%;
+  width: 50%; 
+  height: 500px;
 }
 
 .container.no-padding {
