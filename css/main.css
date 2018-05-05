@@ -2151,10 +2151,10 @@ h1, h2, h3, h4, h5, h6 {
 
 @media (max-width: 800px) {
   .banner-right img {
-    width: 55%;
-    height: 1000px
-    margin-right: auto !important;
-    margin-left: auto !important;
+    width: 3000px;
+    height: 3000px;
+    margin-right: 10px !important;
+    margin-left: 10px !important;
     display: block;
   }
 }
