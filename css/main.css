@@ -318,7 +318,6 @@ ul li {
 -------------------------------------------------------------------------------*/
 .banner {
 	background-color: #008000;
-	background-image: linear-gradient(to right, #56ab2f, #a8e063);
 	min-height: 750px;
 }
 .banner-test {
