@@ -424,7 +424,7 @@ ul li {
 	margin-top:15%;
 }
 .features2-content img {
-	bottom: -100px;
+	bottom: -1px;
 }
 .features2-content p {
 	font-family: "Roboto", sans-serif;
@@ -444,12 +444,12 @@ ul li {
 	padding-bottom:0;
 }
 .features3 img {
-	bottom: -100px;
+	bottom: -1px;
 	padding-left:15%;
 }
 .feature2-img {
 	bottom: -10px;
-	height: 450px; 
+	height: 450px;
 	position: relative;
 }
 
