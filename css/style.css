@@ -304,7 +304,7 @@ hr {
 .intro {
 	width:100%;
 	position:relative;
-	background: url(../img/bg_shag1.jpg);
+	background: url(../img/bg_shag3.jpg) no-repeat top center;
   background-size: contain;
 }
 
