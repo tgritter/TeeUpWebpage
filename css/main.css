@@ -108,6 +108,7 @@ ul li {
  padding-left: 0;
 }
 .section-title {
+	font-size:18px;
 	margin-top: 0;
 	letter-spacing:2px;
 }
@@ -117,7 +118,7 @@ ul li {
 .section-intro {
 	margin:5% 10% 12% 10%;
 	color: #636363;
-	font-size:14px;
+	font-size:16px;
 	line-height:21px;
 	font-weight: 300;
 	letter-spacing:1px;
@@ -413,7 +414,7 @@ ul li {
 }
 .features1-content p {
 	font-family: "Roboto", sans-serif;
-	font-size:13px;
+	font-size:16px;
 	font-weight: 300;
 	line-height: 21px;
 	letter-spacing:1px;
@@ -668,7 +669,7 @@ ul li {
 /* ------------------------------------------------------------------------------
 	Footer
 -------------------------------------------------------------------------------*/
-.footer { 
+.footer {
 	text-align: center;
 	background-color:#201f22;
 }
